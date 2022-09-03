@@ -1,0 +1,2 @@
+# Aedes-albopictus-lifestages
+Associated data for "Life-history stage and the population genetics of the tiger mosquito Aedes albopictus at a fine spatial scale" by EMX Reed, MH Reiskind, MO Burford Reiskind (submitted to Medical and Veterinary Entomology). We have included the raw plink file using the STACKS de novo pipeline and population pipeline parameters highlighted in the manuscript. We have also included the RAW post-process radtag data files and a population map.
